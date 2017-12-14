@@ -1,0 +1,390 @@
+.Home {
+  width: 1440px;
+  height: 5657px;
+}
+
+
+#header {
+  width: 1440px;
+  height: 150px;
+  background-color: #f6f6f6;
+  border: solid 1px #f6f6f6;
+}
+
+#what-we-do {
+  width: 153px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#services {
+  width: 125px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#get-proposal-button {
+  width: 206px;
+  height: 82px;
+  border-radius: 8px;
+  background-color: #438cf7;
+  border: solid 1px #438cf7;
+}
+
+#get-proposal-text {
+  width: 175px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+#section1 {
+  width: 1440px;
+  height: 639px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+#your-business-is-about-to-grow {
+  width: 476px;
+  height: 115px;
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 300;
+  text-align: left;
+}
+
+
+#on-demand {
+  width: 522px;
+  height: 82px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: left;
+}
+
+#get-your-free-proposal-button  {
+  width: 360px;
+  height: 82px;
+  border-radius: 8px;
+  background-color: #438cf7;
+  border: solid 1px #438cf7;
+}
+
+#get-your-free-proposal-button-text {
+  width: 325px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.garrhet-sampson-178990 {
+  width: 644px;
+  height: 639px;
+}
+
+/*  green rectangle at bottom of first page */
+#section2 {
+  width: 1440px;
+  height: 480px;
+  background-color: #00c862;
+  border: solid 1px #00c862;
+}
+
+
+#how-does-your-business-grow {
+  width: 961px;
+  height: 122px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+#get-your-competitor-analysis-button {
+  width: 430px;
+  height: 82px;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0);
+  border: solid 2px #ffffff;
+}
+
+#get-your-competitor-analysis-button-text {
+  width: 404px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+#section3 {
+  width: 1440px;
+  height: 1133px;
+  background-color: #f6f6f6;
+  border: solid 1px #f6f6f6;
+}
+
+
+#what-we-do-2{
+  width: 175px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  text-align: center;
+}
+
+#uncover-your-business-potential {
+  width: 429px;
+  height: 92px;
+  font-family: Roboto;
+  font-size: 38px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#we-do-complete-marketing {
+  width: 500px;
+  height: 170.6px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#plan-for-your-success {
+  width: 429px;
+  height: 59px;
+  font-family: Roboto;
+  font-size: 38px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#we-work-with-you {
+  width: 500px;
+  height: 150px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#execute-at-a-fraction {
+  width: 429px;
+  height: 92px;
+  font-family: Roboto;
+  font-size: 38px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#we-work-with-you {
+  width: 500px;
+  height: 170.6px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+  left: 793px;
+  top: 2103px;
+}
+
+/* page 3 */
+
+.Rectangle-6 {
+  width: 1440px;
+  height: 1692px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+.SERVICES {
+  width: 175px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+.EXPAND-ALL {
+  width: 175px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+.Your-business-wins-i {
+  width: 503px;
+  height: 393px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: left;
+}
+
+.Your-business-wins-i .text-style-1 {
+  font-size: 36px;
+}
+
+
+/* clients section */
+
+.Rectangle-9 {
+  width: 1440px;
+  height: 480px;
+  background-color: #f6f6f6;
+  border: solid 1px #f6f6f6;
+}
+
+
+.CONTACT {
+  width: 175px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+.Line {
+  width: 110px;
+  height: 3px;
+  border: solid 2px #438cf7;
+}
+
+.Rectangle-7 {
+  width: 381px;
+  height: 201px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+.Rectangle-7-Copy {
+  width: 381px;
+  height: 201px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+
+.Rectangle-7-Copy-8 {
+  width: 381px;
+  height: 201px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+
+/* contact section */
+
+.Rectangle-7 {
+  width: 1440px;
+  height: 961px;
+  background-color: #438cf7;
+  border: solid 1px #979797;
+}
+
+.CONTACT {
+  width: 175px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.Have-additional-ques {
+  width: 714px;
+  height: 66px;
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+/* Name */
+.Rectangle-8 {
+  width: 555px;
+  height: 67px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+/* Email */
+.Rectangle-8 {
+  width: 555px;
+  height: 67px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+/* message */
+.Rectangle-8 {
+  width: 555px;
+  height: 334px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+/* submit */
+.Rectangle {
+  width: 177px;
+  height: 82px;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0);
+  border: solid 2px #ffffff;
+}
+
+.SUBMIT {
+  width: 119px;
+  height: 31px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+
+/* footer */
+.Rectangle-10 {
+  width: 1440px;
+  height: 122px;
+  background-color: #ffffff;
+  border: solid 1px #ffffff;
+}
+
+
+/* copyright */
+.-Perform-Growth-201 {
+  width: 291px;
+  height: 32px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: left;
+}
